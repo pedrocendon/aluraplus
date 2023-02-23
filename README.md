@@ -5,7 +5,7 @@
 ![Telas](https://user-images.githubusercontent.com/124694191/220913936-d959d1d0-fd2e-45e1-b13f-c906e5f3ab6d.png)
 
 
-### Página principal do Alura+ feito em CSS, com responsividade aplicada.
+### Projeto frontpage do Alura+ feito em CSS, com responsividade aplicada.
 
 ## Ferramentas utilizadas:
 
